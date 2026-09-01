@@ -13,6 +13,13 @@
 ### 🛠️ Tools & Technologies
 
 **Python • SQL • Excel • Power BI • Machine Learning • NLP • Computer Vision • Generative AI • BERT**
+**Languages:** Python, SQL
+**Data & Analytics:** Microsoft Excel, Power BI, Data Analysis & Visualization
+**Machine Learning:** Scikit-learn, Deep Learning, NLP
+**AI & LLMs:** Generative AI, BERT, Hugging Face, LLM Fine-tuning
+**Computer Vision:** OpenCV, MediaPipe
+**Development:** FastAPI, REST APIs
+
 
 ### 📫 Connect with me
 
