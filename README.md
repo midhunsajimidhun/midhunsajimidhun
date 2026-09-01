@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Midhun Saji 👋
 
-<!--
-**midhunsajimidhun/midhunsajimidhun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech graduate in **Artificial Intelligence & Machine Learning**
+📊 Interested in **Data Analytics, Machine Learning & AI**
+💡 I enjoy turning data into insights and building practical AI-driven solutions.
 
-Here are some ideas to get you started:
+### 🔭 Currently working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Data Analytics projects and interactive dashboards
+* Machine Learning & AI applications
+* Improving my skills in **SQL, Power BI, Python & Generative AI**
+
+### 🛠️ Tools & Technologies
+
+**Python • SQL • Excel • Power BI • Machine Learning • NLP • Computer Vision • Generative AI • BERT**
+
+### 📫 Connect with me
+
+* 💼 [LinkedIn](www.linkedin.com/in/midhun-saji)
+* 📧 Email: **[midhunsajimidhun123@gmail.com](mailto:midhunsajimidhun123@gmail.com)**
+* 🐙 GitHub: You're already here!
